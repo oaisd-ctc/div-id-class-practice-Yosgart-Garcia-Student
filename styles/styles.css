@@ -1,0 +1,68 @@
+.main-box
+{
+    height: 100px; 
+    width: 100%; 
+    margin: 10px; 
+    border-radius: 10px; 
+    background-color: darkblue;
+}
+
+#orange-box
+{
+    width: 50%;
+    background-color: orange;
+}
+
+#white-box
+{
+    margin: 100px; 
+    background-color: white;
+}
+
+#red-box
+{
+    height: 5px;
+    background-color: red;
+}
+
+#blue-box
+{
+    height: 186px;
+    background-color: blue;
+}
+
+#gray-box
+{
+    width: 5%;
+    height: 400px;
+    background-color: gray;
+}
+
+#tan-box
+{
+    width: 66%;
+    height: 75px;
+    background-color: tan;
+}
+
+#yellow-box
+{
+    padding-top: 100px;
+    background-color: yellow;
+}
+
+#purple-box
+{
+    width: 10%;
+    background-color: purple;
+}
+
+#green-box
+{
+    background-color: green;
+}
+
+#black-box
+{
+    background-color: black;
+}
